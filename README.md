@@ -43,7 +43,6 @@
 <div align="center">
 
 ## Statistics
-<hr>
 
 ![](https://komarev.com/ghpvc/?username=OnatSoft&color=blue)
 
